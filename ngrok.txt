@@ -1,2 +1,2 @@
 //ngrok to custom vhost
-ngrok http -host-header=rewrite http://dstore.local/
+ngrok http --host-header=rewrite http://ksd.local/
